@@ -86,7 +86,7 @@ button {
 
 .btn-dark {
     background-color: #191d21;
-    color: white;
+    color: rgb(255, 255, 255);
     opacity: 52%;
 }
 
