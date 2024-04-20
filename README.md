@@ -3,6 +3,6 @@ This is something I built through their project-simulated course: The Full stack
 
 This is a clone of the front page of the Tesla site. The goal: to be able to replicate a popular website and maintain the standard of high quality.
 
-This taught me a lot about html and css and was a fine introduction into the world of coding.
+This taught me a lot about HTML and CSS. Moreover, this was a fine introduction into the world of coding.
 
 Was this a success? A resounding yes!
